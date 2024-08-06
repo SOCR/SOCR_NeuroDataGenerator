@@ -3,7 +3,7 @@
 ![SOCR AI Bot Image](images/SOCR_AI_Bot_Carousel.png)
 
 ## Overview 
-The [SOCR AI Bot (RShiny App)](https://rcompute.nursing.umich.edu/SOCR_ImgGenApp/) provide interactive AI service for synethic generaiton of realistic 2D brain images and 3D Brain volumes.
+The [SOCR 2D/3D Brain Data AI Generator (RShiny App)](https://rcompute.nursing.umich.edu/SOCR_ImgGenApp/) provide interactive AI service for synethic generaiton of realistic 2D brain images and 3D Brain volumes.
 
 See the [DSPA2 GAIM Documentaiton](https://socr.umich.edu/DSPA2/DSPA2_notes/DSPA_Appendix_11_Foundational_Generative_AI_Models_GAIMs.html).
 
@@ -32,6 +32,6 @@ This work is supported in part by NIH grants [P20 NR015331](www.socr.umich.edu/C
 
 * [SOCR Publications](https://www.socr.umich.edu/people/dinov/publications.html).
 * [DSPA2 GAIM Documentaiton](https://socr.umich.edu/DSPA2/DSPA2_notes/DSPA_Appendix_11_Foundational_Generative_AI_Models_GAIMs.html).
-* [https://rcompute.nursing.umich.edu/SOCR_AI_Bot/](https://rcompute.nursing.umich.edu/SOCR_ImgGenApp/)
+* [SOCR 2D/3D Brain Data AI Generator (RShiny App)](https://rcompute.nursing.umich.edu/SOCR_ImgGenApp/).
 
 
