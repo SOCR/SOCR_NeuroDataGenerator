@@ -20,6 +20,10 @@ The code is organized as follows:
 - ...
 - 
 Other files are mostly for testing and debugging and less important.
+## Dependencies
+## How to run
+- First download the model weights from `https://drive.google.com/drive/folders/14Lz3l1mxtMEMKQlTwJIgunhSstvMrLxm?usp=drive_link` and copy to the `models` directory
+- To run the app open the root folder in Rsutdion and click on run app button
 
 ## Guidelines for Future Development
 - Using RStudio is the easiest way to develop and the app almost out-of-box. However, if you want to use other IDEs like VSCode, use `renv` to manage the packages. The `renv.lock` file is already included in the repo. To install the packages, run `renv::restore()` in the R console. You may need to install other dependencies manually to install the packages, if there's error message saying so.
