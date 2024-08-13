@@ -1,0 +1,4 @@
+root_path: ""
+img_path: "~/SOCR_ImgGenApp_RshinyIo/images"
+log_path: "/path/to/logs"
+debug_mode: true

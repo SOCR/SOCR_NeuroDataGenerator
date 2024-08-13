@@ -1,0 +1,59 @@
+/* Custom CSS for grid layout */
+
+
+.modal-title {
+      margin-bottom: 20px;
+      font-size: 18px;
+    }
+.plot-title {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-style: bold;
+}
+
+.custom-btn {
+      font-size: 10px;
+      padding: 5px 10px;
+      margin-right: 8px;
+    }
+
+.down-all-btn{
+  position: absolute;
+      right: 0; /* Position the child to the extreme right */
+}
+    
+.plot-grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; /* Only one justify-content property */
+  margin-top: 20px;  /* Adjust as needed */
+  align-items: center;
+}
+
+.plot-item {
+ /* Adjust the width of each plot item */
+  margin: 0px; /* Adjust the spacing between plot items */
+  display: flex;
+  justify-content: center; /* Horizontally center content within each item */
+  align-items: center; /* Vertically center content within each item */
+}
+
+.gallery-img{
+  margin:10px;
+}
+.gallery{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+.gallery-img-row {
+    width: auto;
+    margin:3px;
+}
+.site-footer{
+  background-color: white;
+}
