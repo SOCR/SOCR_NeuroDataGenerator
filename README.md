@@ -22,7 +22,7 @@ The code is organized as follows:
 Other files are mostly for testing and debugging and less important.
 ## Dependencies
 ## How to run
-- Download the model weights from `https://drive.google.com/drive/folders/14Lz3l1mxtMEMKQlTwJIgunhSstvMrLxm?usp=drive_link` and copy to the `models` directory
+- Download the model weights from [Gdrive](https://drive.google.com/drive/folders/14Lz3l1mxtMEMKQlTwJIgunhSstvMrLxm?usp=drive_link) and copy to the `models` directory
 - To run the app open the root folder in Rsutdion and click on run app button
 
 ## Guidelines for Future Development
